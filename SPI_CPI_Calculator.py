@@ -186,8 +186,8 @@ def generate_marksheet():
 # main function
 import os
 import csv
-from openpyxl import Workbook
-from openpyxl import load_workbook
+# from openpyxl import Workbook
+# from openpyxl import load_workbook
 
 os.system("cls")
 
